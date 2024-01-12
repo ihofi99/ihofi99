@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihofi99
 - 👀 I’m interested in #homelab, #3D-Printing and gaming.
 - 🌱 I’m currently learning coding, 3D-design, and more.
-- 📫 How to reach me info@ihofi.com
+- 📫 How to reach me: info@ihofi.com
 
 
 Feel free to follow my discord server https://discord.gg/CpGRUyU8YK
